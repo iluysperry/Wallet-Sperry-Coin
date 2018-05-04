@@ -1,4 +1,4 @@
-Sperry 0.8.x BETA
+Sperry 0.8 BETA
 
 Copyright (c) 2011-2018 Sperry Developers
 
