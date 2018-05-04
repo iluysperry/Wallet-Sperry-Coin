@@ -35,10 +35,11 @@ Windows Portable Wallet : > sperry-qt.exe
 
 After running the wallet, wait to synchronize...
 
-   ( (
-    ) )
-  ........
-  |      |]
-  \      /    Coffe? 
-   `----'
+
+                    ( (
+                    ) )
+                 ........
+                 |      |]    Coffe? 
+                 \      /     
+                  `----'
 
