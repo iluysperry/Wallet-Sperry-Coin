@@ -1,4 +1,4 @@
-Sperry 0.8 BETA
+Sperry Wallet 0.8 BETA
 
 Copyright (c) 2011-2018 Sperry Tecnologia
 
@@ -29,9 +29,10 @@ process can take anywhere from a few hours to a day or more.
 Download
 -----
 
-Windows Installer Wallet: > sperry-0.8.7.5-win32-setup.exe
+Windows Installer Wallet:  https://github.com/iluysperry/Wallet-Sperry-Coin/raw/master/sperry-0.8.7.5-win32-setup.exe
 
-Windows Portable Wallet : > sperry-qt.exe
+Windows Portable Wallet :  https://github.com/iluysperry/Wallet-Sperry-Coin/raw/master/sperry-qt.exe
+
 
 After running the wallet, wait to synchronize...
 
