@@ -37,10 +37,25 @@ Windows Portable Wallet :  https://github.com/iluysperry/Wallet-Sperry-Coin/raw/
 After running the wallet, wait to synchronize...
 
 
-                    ( (
-                    ) )
-                 ........
-                 |      |]    Coffe? 
-                 \      /     
-                  `----'
+Local files windows
+-----
 
+Default Location
+
+Go to Start -> Run (or press WinKey+R) and run this:
+
+    %APPDATA%\Sperry
+
+Sperry data folder will open. 
+
+For most users, this is the following locations, just change username:
+
+C:\Documents and Settings\YourUserName\Application data\Sperry
+
+C:\Users\YourUserName\Appdata\Roaming\Sperry 
+
+Wallet backup 
+-----
+Just copy and save wallet.dat file put in a safe location. 
+
+When you need to restore a new wallet just copy the file and overwrite it in the same directory as described.
